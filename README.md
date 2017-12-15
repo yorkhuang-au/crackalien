@@ -2,6 +2,4 @@
 
 My Phaser/Javascript game.
 
-play game;
-
-<a>yorkhuang-au.github.io/crackalien
+[play game](yorkhuang-au.github.io/crackalien)
